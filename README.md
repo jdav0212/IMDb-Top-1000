@@ -22,7 +22,7 @@ The original dataset can be found [**here**](https://www.kaggle.com/datasets/har
 
 ## How to View the Notebook
 
-If the Jupyter Notebook report doesn't render correctly on GitHub, you can follow these steps to view it:
+To view the notebook, simply open the IMDB.ipynb file on GitHub. If the Jupyter Notebook report doesn't render correctly on GitHub, you can follow the link below to view it:
 
 1. Click [**here**](https://nbviewer.org/github/jdav0212/IMDb-Top-1000/blob/main/IMDB.ipynb) to view the document externally.
 
