@@ -5,7 +5,6 @@ Welcome to the IMDb Top 1000 Movie Analysis project! This repository contains a 
 ## Table of Contents
 - [About](#about)
 - [Data Source](#data-source)
-- [Notebook Preview](#notebook-preview)
 - [How to View the Notebook](#how-to-view-the-notebook)
 - [Analysis Highlights](#analysis-highlights)
 - [Contributing](#contributing)
@@ -19,12 +18,13 @@ In this analysis, we explore various aspects of the IMDb Top 1000 movies dataset
 
 The dataset used in this analysis is obtained from Kaggle user Harshit Shankhdhar, and it includes information on the top 1000 rated movies on IMDb as of 2020.
 
-The original dataset can be found here: [**here**](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data)
+The original dataset can be found [**here**](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows/data)
+
 ## How to View the Notebook
 
 If the Jupyter Notebook report doesn't render correctly on GitHub, you can follow these steps to view it:
 
-1. Click on the [**View Jupyter Notebook Report**](https://nbviewer.org/github/jdav0212/IMDb-Top-1000/blob/main/IMDB.ipynb) link.
+1. Click [**here**](https://nbviewer.org/github/jdav0212/IMDb-Top-1000/blob/main/IMDB.ipynb) to view the document externally.
 
 2. You will be redirected to an external viewer (Jupyter nbviewer).
 
