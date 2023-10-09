@@ -1,6 +1,6 @@
 # IMDb Top 1000 Movie Analysis
 
-Welcome to the IMDb Top 1000 Movie Analysis project! This repository contains a Jupyter Notebook report that analyzes the top 1000 rated movies on IMDb, providing insights and visualizations based on the available data.
+Welcome to the IMDb Top 1000 Movie Analysis project! This repository contains a Jupyter Notebook report that analyzes the top 1000 rated movies on IMDb, providing insights, visualizations, and statistical tests based on the available data. 
 
 ## Table of Contents
 - [About](#about)
@@ -12,7 +12,7 @@ Welcome to the IMDb Top 1000 Movie Analysis project! This repository contains a 
 
 ## About
 
-In this analysis, we explore various aspects of the IMDb Top 1000 movies dataset. We delve into movie genres, ratings, directors, and more to gain a deeper understanding of what makes these movies stand out. Whether you're a movie enthusiast or a data science enthusiast, this analysis offers valuable insights into the world of cinema.
+In this analysis, I explore various aspects of the IMDb Top 1000 movies dataset. I delve into movie genres, ratings, directors, and more to gain a deeper understanding of what makes these movies stand out. Whether you're a movie enthusiast or a data science enthusiast, this analysis offers valuable insights into the world of cinema.
 
 ## Data Source
 
